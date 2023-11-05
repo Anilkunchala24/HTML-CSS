@@ -1,0 +1,58 @@
+*{
+    background-color: bisque;
+}
+p{
+    background-color: aqua;
+    text-align: center;
+}
+abbr{
+    font-size: larger;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+i{
+    background-color: cadetblue;
+}
+em{
+    background-color: black;
+    color: white;
+}
+b{
+    background-color: cornsilk;
+}
+del{
+    background-color: blue;
+}
+ins{
+    background-color: brown;
+}
+small{
+    background-color: cadetblue;
+}
+sub{
+    background-color: coral;
+}
+super{
+    background-color: cyan;
+}
+mark{
+    background-color: blueviolet;
+}
+details{
+    background-color: azure;
+}
+ol li{
+    background-color: cornflowerblue;
+}
+ul li{
+    background-color: chartreuse;
+}
+
+
+
+
+
+
+
+
